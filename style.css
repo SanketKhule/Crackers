@@ -31,6 +31,18 @@ img{
     width: 98vw;
     height: 90vh;
 }
+.contact p{
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 18px;
+    
+}
+.contact a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
 .list{
     width: 100%;
     margin: auto;
