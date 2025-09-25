@@ -35,13 +35,12 @@ img{
     width: 100%;
     text-align: center;
     padding: 10px 0;
-    font-size: 18px;
+    font-size: 10px;
     
 }
 .contact a{
     text-decoration: none;
     color: rgb(0, 0, 0);
-    font-weight: bold;
 }
 .list{
     width: 100%;
